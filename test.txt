@@ -1,2 +1,7 @@
-test
-cfh
+subl text.txt
+git status
+git add test.txt
+git status
+git commit -m "message"
+git push origin master
+git status
